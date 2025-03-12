@@ -1,3 +1,16 @@
+
+### This fork is for experimentation and application to our internal datasets.
+
+### Renamed arbitrarily just to distinguish from original repo.
+
+### All credit to the original authors. 
+
+### Original repo: https://github.com/scjjb/Ovarian_Features
+
+### Original README with further references preserved below
+---
+---
+
 # A Comprehensive Evaluation of Histopathology Foundation Models for Ovarian Cancer Subtype Classification
 <img src="CISTIB logo.png" align="right" width="240"/>
 
